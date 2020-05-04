@@ -6,4 +6,4 @@ Secondly, we summarize another algorithm called SHAP (https://github.com/slundbe
 
 Finally we try to integrate SHAP implementation into and explain the reason why it currently has some integration problems.
 
-The report for the above steps is at [here](https://github.com/HaoranZhuExplorer/Report-on-COVID19-X-Ray-Classification/blob/master/report.pdf/report.pdf)
+The report and results for the above steps is at [here](https://github.com/HaoranZhuExplorer/Report-on-COVID19-X-Ray-Classification/blob/master/report.pdf/report.pdf).
